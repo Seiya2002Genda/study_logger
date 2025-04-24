@@ -15,7 +15,7 @@ public class StudyLoggerApp extends JFrame {
     private int studySeconds = 0;
     private int breakSeconds = 0;
 
-    private final String BACKGROUND_IMAGE_PATH = "Study/pexels-rafael-cosquiere-1059286-2041540.jpg";
+    private final String BACKGROUND_IMAGE_PATH = "Directory/Your favorite Picture URL(jpg)";
     private final String LOG_FILENAME = "study_log.csv";
 
     public StudyLoggerApp() {
