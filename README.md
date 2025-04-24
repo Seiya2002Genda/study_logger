@@ -60,8 +60,11 @@ csv
 ## 🚀 Future Plans
 
 📊 Add subject-based bar charts (JFreeChart)
+
 🧾 Export to PDF
+
 🔍 Search/filter by date or subject
+
 🌙 Dark mode support
 
 ---
