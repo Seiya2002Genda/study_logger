@@ -27,6 +27,7 @@ Built with `Java`, `Swing`, and love for productivity. 🕒
 ---
 
 ## 📁 Project Structure
+
 Study_logger/ 
 ├── StudyLoggerApp.java # Main application UI 
 ├── LogViewerWindow.java # Log viewer in JTable format 
