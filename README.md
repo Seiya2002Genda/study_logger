@@ -3,8 +3,6 @@
 A simple Java Swing application to track your study and break times, and log your sessions to a CSV file with a clean library-style interface.  
 Built with `Java`, `Swing`, and love for productivity. 🕒
 
-![Library Background](Study/pexels-rafael-cosquiere-1059286-2041540.jpg)
-
 ---
 
 ## ✨ Features
@@ -26,7 +24,6 @@ Built with `Java`, `Swing`, and love for productivity. 🕒
 
 <img width="800" alt="Screenshot 0007-04-24 at 13 13 54" src="https://github.com/user-attachments/assets/9b081b6d-4353-4313-80f8-4cd49fa60b19" />
 
-
 ---
 
 ## 📁 Project Structure
@@ -36,7 +33,6 @@ Study_logger/
 ├── study_log.csv # Auto-created CSV log file 
 └── Study/ 
 └── pexels-rafael-cosquiere-1059286-2041540.jpg # Background image
-
 
 ---
 
@@ -67,7 +63,6 @@ csv
 🔍 Search/filter by date or subject
 🌙 Dark mode support
 
-
 ---
 
 ## 📄 License
@@ -75,7 +70,6 @@ csv
 This software is free to use, modify, and enhance for personal or academic purposes.
 All rights including copyright belong to Seiya Genda.
 Background image credit: "Photo by Rafael Cosquiere from Pexels"
-
 
 ---
 
